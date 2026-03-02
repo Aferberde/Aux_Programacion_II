@@ -1,2 +1,3 @@
 # Aux_Programacion_II
-Berdeja
+Berdeja Caquiva Adriana Fernanda
+CI 12766799
